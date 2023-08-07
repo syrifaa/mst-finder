@@ -7,7 +7,7 @@ Program akan mengeluarkan hasil Minimum Spanning Tree sesuai input pengguna dan 
 ## Cara Menjalankan Program
 1. Clone repositori ini
 2. Buka cmd pada windows atau terminal
-3. Ubah directory ke lokasi repositori yang sudah di-clone dan ketik command `python main.py`
+3. Ubah directory ke lokasi repositori src dengan command `cd src` dan ketik command `python main.py`
 
 ## Identitas Penulis
    [13521018 - Syarifa Dwi Purnamasari](https://github.com/syrifaa)
