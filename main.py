@@ -9,6 +9,9 @@ root.title('Task 2 - MST Finder')
 root.geometry('1000x600')
 root.configure(background='#E5E5E5')
 
+title = Label(root, text="Minimum Spanning Tree Finder", fg="#4B4D4E", font=("Dongle", 20))
+title.place(x=300, y=25)
+
 textEditor = Frame(root, bg="white", width=300, height=300)
 textEditor.pack_propagate(0)
 textEditor.place(x=50, y=100)
